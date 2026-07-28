@@ -1,0 +1,16 @@
+{
+  "name": "Chumash Word Study",
+  "short_name": "Chumash",
+  "description": "Read the chumash, tap what you don't know, and practise your own words.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1EFEA",
+  "theme_color": "#2A5580",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
